@@ -14,15 +14,18 @@ mjgMAX31855 tc = mjgMAX31855();
 int timer = 2500;
 long lastFireTime = millis();
 
-
 void setup() 
 {
 	Serial.begin(115200);
-	while (!Serial){} // Wait for Serial to begin
+	while (!Serial)
+	{
+		;	// Wait for Serial to begin
+	}
 	Serial.println("-----------------------");
 	Serial.println("  mjgMAX31855 Example");
 	Serial.println("-----------------------");
 }
+	
 
 void loop()
 {
