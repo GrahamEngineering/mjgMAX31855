@@ -7,6 +7,9 @@
 	
 	It will read information from the MAX31855 every 2.5 seconds and print it to serial
 
+	>>>>> For the ESP8266, it is best to not have the MAX31855 connected during upload.  <<<<<
+
+>>>>> If you read that, then you're going to save a lot of hassle. <<<<<
 */
 #include <mjgMAX31855.h>
 
