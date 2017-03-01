@@ -9,7 +9,7 @@
 
 	>>>>> For the ESP8266, it is best to not have the MAX31855 connected during upload.  <<<<<
 
->>>>> If you read that, then you're going to save a lot of hassle. <<<<<
+			>>>>> If you read that, then you're going to save a lot of hassle. <<<<<
 */
 #include <mjgMAX31855.h>
 
