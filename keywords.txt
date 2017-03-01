@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+mjgMAX31855	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+readTempC	KEYWORD2
+readTempF	KEYWORD2
+readInternalC	KEYWORD2
+readInternalF	KEYWORD2
+readRaw	KEYWORD2
+fault KEYWORD2
+tcFault	KEYWORD2
+gndFault	KEYWORD2
+vccFault	KEYWORD2
+garbageFault	KEYWORD2
+tempC	KEYWORD2
+tempF	KEYWORD2
+internalC	KEYWORD2
+internalF	KEYWORD2
+rawData	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+# None
